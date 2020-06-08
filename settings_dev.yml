@@ -1,0 +1,8 @@
+databases:
+    default:
+        database: 'dev_db'
+        user: 'root'
+        passwd: 'pass'
+        host: '122.122.122.122'
+        port: 3306
+        charset: 'utf8'
